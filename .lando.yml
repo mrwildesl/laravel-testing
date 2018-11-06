@@ -1,0 +1,43 @@
+# Laravel recipe
+name: CleanLaravel
+
+# Start with the default laravel recipe
+recipe: laravel
+
+# Configure the laravel recipe
+config:
+  #
+  php: '7.2'
+  via: nginx
+  webroot: web/public
+  cache: redis
+  xdebug: false
+
+services:
+  database:
+
+    # Use mariadb version 10.1
+    type: mariadb:10.3
+    portforward: 3307
+
+    creds:
+      user: mariadb
+      password: mariadb
+      database: clean
+  node:
+    type: node:8.9
+
+  appserver:
+    run_as_root:
+    - apt-get update -y
+    - apt-get upgrade -y
+    - composer self-update
+    - docker-php-ext-install pcntl
+
+tooling:
+  node:
+    service: node
+  npm:
+    service: node
+  yarn:
+    service: node
