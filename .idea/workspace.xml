@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4764fa0-9881-4e56-b171-96ffd33627e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Robert.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Robert.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b4764fa0-9881-4e56-b171-96ffd33627e4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,17 +289,17 @@
       <option name="presentableId" value="Default" />
       <updated>1534812694879</updated>
       <workItem from="1534812698803" duration="3108000" />
-      <workItem from="1541480301929" duration="7778000" />
+      <workItem from="1541480301929" duration="8029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10886000" />
+    <option name="totallyTimeSpent" value="11137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17965023" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17965023" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" />
@@ -320,7 +318,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="right" id="Terminal" order="5" weight="0.46263912" />
+      <window_info active="true" anchor="right" id="Terminal" order="5" visible="true" weight="0.46263912" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
