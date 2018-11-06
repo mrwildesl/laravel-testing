@@ -70,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/web/config/api-consumers.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="667">
-              <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/web/app/ApiConsumers/SalesforceRest/Shapes/GetTokenShape.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="12" />
+              <caret line="12" selection-start-line="11" selection-start-column="36" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -106,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/web/app/Writer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#23#78#0#PHP" expanded="true" />
               </folding>
@@ -289,12 +289,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534812694879</updated>
       <workItem from="1534812698803" duration="3108000" />
-      <workItem from="1541480301929" duration="8029000" />
+      <workItem from="1541480301929" duration="8629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11137000" />
+    <option name="totallyTimeSpent" value="11737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -450,7 +450,7 @@
     <entry file="file://$PROJECT_DIR$/web/app/Writer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#23#78#0#PHP" expanded="true" />
           </folding>
@@ -467,7 +467,7 @@
     <entry file="file://$PROJECT_DIR$/web/app/ApiConsumers/SalesforceRest/Shapes/GetTokenShape.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="12" />
+          <caret line="12" selection-start-line="11" selection-start-column="36" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -488,7 +488,7 @@
     <entry file="file://$PROJECT_DIR$/web/config/api-consumers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
-          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
         </state>
       </provider>
     </entry>
