@@ -2,7 +2,10 @@
   <dictionary name="Robert">
     <words>
       <w>authenticatable</w>
+      <w>aydim</w>
+      <w>jsonplaceholder</w>
       <w>mariadb</w>
+      <w>salesforce</w>
     </words>
   </dictionary>
 </component>
